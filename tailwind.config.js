@@ -26,9 +26,9 @@ export default {
         "inputs": "0.25rem"
       },
       backgroundImage: {
-        'logo-mobile': "url('./src/assets/logo-mobile.svg')",
-        'logo-light': "url('./src/assets/logo-light.svg')",
-        'logo-dark': "url('./src/assets/logo-dark.svg')"
+        'logo-mobile': "url('./assets/logo-mobile.svg')",
+        'logo-light': "url('./assets/logo-light.svg')",
+        'logo-dark': "url('./assets/logo-dark.svg')"
       }
     },
   },
